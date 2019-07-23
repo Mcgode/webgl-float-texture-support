@@ -1,0 +1,21 @@
+{
+  "name": "webgl-check-float-texture-support",
+  "version": "1.0.0",
+  "description": "A module containing a function allowing the user to check if the current browser supports WebGL float textures",
+  "main": "src/webgl-check-float-texture-support.js",
+  "keywords": ["webgl", "web-gl", "threejs", "three-js", "float", "texture", "support", "check"],
+  "author": {
+    "name": "Max Godefroy",
+    "email": "max@godefroy.net",
+    "url": "https://github.com/Mcgode"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mcgode/webgl-check-float-texture-support.git"
+  },
+  "homepage": "https://github.com/Mcgode/webgl-check-float-texture-support",
+  "bugs": {
+    "url": "https://github.com/Mcgode/webgl-check-float-texture-support/issues"
+  }
+}
