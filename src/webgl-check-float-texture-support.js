@@ -47,6 +47,8 @@
             let canvas = document.createElement("canvas");
             let gl = create3DContext(canvas);
 
+            if (!gl) return false;
+
             let extensionEnabled = gl.getExtension("OES_texture_float");
 
             if (extensionEnabled) {
