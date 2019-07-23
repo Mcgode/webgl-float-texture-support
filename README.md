@@ -11,7 +11,7 @@ This module allows you to check the full support of WebGL 1 float textures exten
 
 Install with the folowing command
 ``` bash
-npm install webgl-check-float-texture-support --save
+npm install webgl-float-texture-support --save
 ```
 
 You can then use the module any way you want to 
